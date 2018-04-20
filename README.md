@@ -22,14 +22,14 @@ Assignment for Natural Language Processing
 ## Bar Plot Tweet Polarity Scores over Time
 ![image6](https://user-images.githubusercontent.com/37115533/39056627-3b58d15a-4485-11e8-800f-26846e7dfc1b.png)
 
-## Smooth Plot of Polarity Trend Sentiment over Time
+## Smooth Plot of Polarity Trend Sentiment over Time (bing)
 ![image7](https://user-images.githubusercontent.com/37115533/39056628-3b65982c-4485-11e8-9381-31fee8c88b7b.png)
 
-## Commonality Cloud Positive and Negative 
+## Commonality Cloud Positive and Negative (qdap)
 ![image8](https://user-images.githubusercontent.com/37115533/39056619-3aee533e-4485-11e8-9e6d-b5a4f0f80fb3.png)
 
-## Comparison Cloud Positive and Negative 
+## Comparison Cloud Positive and Negative (qdap)
 ![image9](https://user-images.githubusercontent.com/37115533/39056620-3afd4fba-4485-11e8-82dc-9ce710c34da2.png)
 
-## Radar Chart Emotional Analysis
+## Radar Chart Emotional Analysis (nrc)
 <img width="500" alt="image10" src="https://user-images.githubusercontent.com/37115533/39056754-8c8716cc-4485-11e8-8c16-e36411c1d202.png">
