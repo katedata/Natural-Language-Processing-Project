@@ -7,7 +7,7 @@ library(twitteR)
 #library(qdap)
 library(tm)
 # Change the next four lines based on your own consumer_key, consume_secret, access_token, and access_secret. 
-consumer_key <- "my_consume_key"
+consumer_key <- "my_consumer_key"
 consumer_secret <- "my_consumer_secret"
 access_token <- "my_access_token"
 access_secret <- "my_access_secret"
