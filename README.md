@@ -2,7 +2,7 @@
 ***
 Assignment for Natural Language Processing
 
-## Analysis of 2000 Tweets from the Boston Bruins Hockey Team who are in the playoffs for the Stanley Cup. Their first round opponents is the Toronto Maple Leafs. The Bruins are currently 3-1 in the series. (@NHLBruins)
+## Analysis of 2000 Tweets from the Boston Bruins Hockey Team who are in the playoffs for the Stanley Cup. Their first round opponent is the Toronto Maple Leafs. The Bruins are currently 3-1 in the series. (@NHLBruins)
 
 ## Bar Plot of Common Words
 ![image1](https://user-images.githubusercontent.com/37115533/39056622-3b15ea52-4485-11e8-9ab6-dd821c421a96.png)
