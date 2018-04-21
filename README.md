@@ -2,7 +2,7 @@
 ***
 Assignment for Natural Language Processing
 
-## Analysis of 2000 Tweets from the Boston Bruins Hockey Team who are in the playoffs for the Stanley Cup. (@NHLBruins)
+## Analysis of 2000 Tweets from the Boston Bruins Hockey Team who are in the playoffs for the Stanley Cup. Their first round opponents is the Toronto Maple Leafs. The Bruins are currently 3-1 in the series. (@NHLBruins)
 
 ## Bar Plot of Common Words
 ![image1](https://user-images.githubusercontent.com/37115533/39056622-3b15ea52-4485-11e8-9ab6-dd821c421a96.png)
@@ -19,16 +19,16 @@ Assignment for Natural Language Processing
 ## TF-IDF WordCloud
 ![image5](https://user-images.githubusercontent.com/37115533/39056626-3b458992-4485-11e8-9cf2-1f94592febf0.png)
 
-## Bar Plot Tweet Polarity Scores over Time
+## Bar Plot Tweet Polarity Scores Over Time
 ![image6](https://user-images.githubusercontent.com/37115533/39056627-3b58d15a-4485-11e8-800f-26846e7dfc1b.png)
 
-## Smooth Plot of Polarity Trend Sentiment over Time (bing)
+## Smooth Plot of Polarity Trend Sentiment Over Time (bing)
 ![image7](https://user-images.githubusercontent.com/37115533/39056628-3b65982c-4485-11e8-9381-31fee8c88b7b.png)
 
 ## Commonality Cloud Positive and Negative (qdap)
 ![image8](https://user-images.githubusercontent.com/37115533/39056619-3aee533e-4485-11e8-9e6d-b5a4f0f80fb3.png)
 
-## Comparison Cloud Positive and Negative (qdap)
+## Comparison Cloud Positive versus Negative (qdap)
 ![image9](https://user-images.githubusercontent.com/37115533/39056620-3afd4fba-4485-11e8-82dc-9ce710c34da2.png)
 
 ## Radar Chart Emotional Analysis (nrc)
